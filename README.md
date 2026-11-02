@@ -32,16 +32,16 @@ I build fast, animated, bug-free web experiences with **React, Next.js, TypeScri
 
 > ✅ My 6 pinned projects are covered by automated **Playwright** E2E tests running on every push with **GitHub Actions**.
 
-| Project | What it is | Stack | Links |
-|---|---|---|---|
-| **3D E-commerce Store** | Bilingual storefront with interactive 3D product visuals | Next.js · TS · Three.js · GSAP · Zod | [Live](https://e-commerce-new2-delta.vercel.app/en) · [Code](https://github.com/Eslamraafat1/E-commerce-New-) |
-| **3D Real Estate Platform** | Immersive property showcase with cinematic animations | Next.js · TS · Three.js · GSAP | [Live](https://new-real-estate-jade.vercel.app) · [Code](https://github.com/Eslamraafat1/New-Real-Estate) |
-| **NEXORA Academy** | Cinematic bilingual e-learning platform | Next.js · TS · Three.js · GSAP · Zod | [Live](https://courses-n.vercel.app) · [Code](https://github.com/Eslamraafat1/Courses-N) |
-| **MONOLITH Studio** | 3D architecture studio website | Next.js · TS · Three.js · GSAP | [Live](https://3-d-website-seven-xi.vercel.app) · [Code](https://github.com/Eslamraafat1/3D-Website-) |
-| **Restaurant Website** | Restaurant site with an immersive 3D experience | Next.js · TS · Three.js · Tailwind | [Live](https://new-restaurant-kappa.vercel.app) · [Code](https://github.com/Eslamraafat1/New-Restaurant) |
-| **Perfume Store** | Premium online store with WebGL effects | Next.js · Supabase · GSAP | [Live](https://perfume-sooty-alpha.vercel.app) · [Code](https://github.com/Eslamraafat1/Perfume) |
-| **Tour Egypt Club** | Live travel & tours website (client project) | Next.js · JavaScript | [Live](https://touregyptclub.com) · [Code](https://github.com/Eslamraafat1/Travel) |
-| **OneStep** | Live corporate & e-commerce website (client project) | HTML · CSS · JavaScript | [Live](https://onestepcorp.com) · [Code](https://github.com/Eslamraafat1/OneStep) |
+| Project | What it is | Stack | Links | Tests |
+|---|---|---|---|---|
+| **3D E-commerce Store** | Bilingual storefront with interactive 3D product visuals | Next.js · TS · Three.js · GSAP · Zod | [Live](https://e-commerce-new2-delta.vercel.app/en) · [Code](https://github.com/Eslamraafat1/E-commerce-New-) | [![E2E](https://github.com/Eslamraafat1/E-commerce-New-/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/E-commerce-New-/actions/workflows/e2e.yml) |
+| **3D Real Estate Platform** | Immersive property showcase with cinematic animations | Next.js · TS · Three.js · GSAP | [Live](https://new-real-estate-jade.vercel.app) · [Code](https://github.com/Eslamraafat1/New-Real-Estate) | [![E2E](https://github.com/Eslamraafat1/New-Real-Estate/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/New-Real-Estate/actions/workflows/e2e.yml) |
+| **NEXORA Academy** | Cinematic bilingual e-learning platform | Next.js · TS · Three.js · GSAP · Zod | [Live](https://courses-n.vercel.app) · [Code](https://github.com/Eslamraafat1/Courses-N) | [![E2E](https://github.com/Eslamraafat1/Courses-N/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/Courses-N/actions/workflows/e2e.yml) |
+| **MONOLITH Studio** | 3D architecture studio website | Next.js · TS · Three.js · GSAP | [Live](https://3-d-website-seven-xi.vercel.app) · [Code](https://github.com/Eslamraafat1/3D-Website-) | — |
+| **Restaurant Website** | Restaurant site with an immersive 3D experience | Next.js · TS · Three.js · Tailwind | [Live](https://new-restaurant-kappa.vercel.app) · [Code](https://github.com/Eslamraafat1/New-Restaurant) | [![E2E](https://github.com/Eslamraafat1/New-Restaurant/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/New-Restaurant/actions/workflows/e2e.yml) |
+| **Perfume Store** | Premium online store with WebGL effects | Next.js · Supabase · GSAP | [Live](https://perfume-sooty-alpha.vercel.app) · [Code](https://github.com/Eslamraafat1/Perfume) | [![E2E](https://github.com/Eslamraafat1/Perfume/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/Perfume/actions/workflows/e2e.yml) |
+| **Tour Egypt Club** | Live travel & tours website (client project) | Next.js · JavaScript | [Live](https://touregyptclub.com) · [Code](https://github.com/Eslamraafat1/Travel) | [![E2E](https://github.com/Eslamraafat1/Travel/actions/workflows/e2e.yml/badge.svg)](https://github.com/Eslamraafat1/Travel/actions/workflows/e2e.yml) |
+| **OneStep** | Live corporate & e-commerce website (client project) | HTML · CSS · JavaScript | [Live](https://onestepcorp.com) · [Code](https://github.com/Eslamraafat1/OneStep) | — |
 
 ---
 
